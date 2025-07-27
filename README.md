@@ -110,12 +110,23 @@ I’ve developed production-grade systems for diverse domains like LMS, CRM, B2B
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faizan-Ashraf&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammad-Faizan-Ashraf&theme=github-dark&hide_border=false" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faizan-Ashraf&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Faizan-Ashraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
+
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Faizan-Ashraf&layout=compact&theme=github_dark" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Faizan-Ashraf&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Faizan-Ashraf&theme=github_dark" width="100%" alt="Profile Summary" />
+
 </div>
 
