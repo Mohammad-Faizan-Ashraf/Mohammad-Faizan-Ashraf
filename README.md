@@ -134,4 +134,5 @@ I’ve developed production-grade systems for diverse domains like LMS, CRM, B2B
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Faizan-Ashraf&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="100%" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Faizan-Ashraf&theme=react-dark&area=true&hide_border=true" width="100%" />
 
