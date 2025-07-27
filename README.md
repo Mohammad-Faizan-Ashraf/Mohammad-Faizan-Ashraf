@@ -103,8 +103,7 @@ I’ve developed production-grade systems for diverse domains like LMS, CRM, B2B
 * **Email**: [faizanashraf2407@gmail.com](mailto:faizanashraf2407@gmail.com)
 * **Phone**: +91 9953052984
 * **GitHub**: [Mohammad-Faizan-Ashraf](https://github.com/Mohammad-Faizan-Ashraf)
-* **LinkedIn**: *(Add your profile link)*
-* **Resume**: *(Add resume link)*
+* **LinkedIn**: www.linkedin.com/in/faizan-software-development-engineer
 
 ---
 
