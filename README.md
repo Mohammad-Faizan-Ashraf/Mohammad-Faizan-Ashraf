@@ -105,3 +105,17 @@ I’ve developed production-grade systems for diverse domains like LMS, CRM, B2B
 * **GitHub**: [Mohammad-Faizan-Ashraf](https://github.com/Mohammad-Faizan-Ashraf)
 * **LinkedIn**: *(Add your profile link)*
 * **Resume**: *(Add resume link)*
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Faizan-Ashraf&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammad-Faizan-Ashraf&theme=github-dark&hide_border=false" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Faizan-Ashraf&layout=compact&theme=github_dark" width="48%" />
+</div>
+
