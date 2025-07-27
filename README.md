@@ -1,7 +1,7 @@
 I'm Mohammad Faizan Ashraf
 
 **Software Development Engineer**
-**Backend Systems | Python | Django | DRF | Scalable Architectures | CI/CD Pipelines | Secure APIs**
+**Software Development Engineer — Architecting Scalable Backend Systems | Python, Django, DRF Specialist | Microservices & Enterprise-Scale REST API Engineering | CI/CD Pipelines with Docker & GitHub Actions | Secure Auth (JWT, OAuth2, RBAC) | Cloud-Native & VPS Deployments | Delivered 5+ Production-Grade Systems**
 
 ---
 
