@@ -6,7 +6,7 @@ I'm Mohammad Faizan Ashraf - **Software Development Engineer (SDE)**
 
 ---
 
-### 💼 About Me
+### ✍️ About Me
 
 ➤ I am a results-driven Software Development Engineer with nearly 2 years of hands-on experience architecting and delivering robust, secure, and production-grade backend systems. I specialize in designing RESTful APIs, implementing scalable microservice architectures, and managing data-intensive applications using Python, Django, and Django REST Framework.
 
