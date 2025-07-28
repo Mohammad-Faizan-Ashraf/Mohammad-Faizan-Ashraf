@@ -8,11 +8,11 @@ I'm Mohammad Faizan Ashraf - **Software Development Engineer (SDE)**
 
 ### 👨‍💻 About Me
 
-⮞ I am a results-driven Software Development Engineer with nearly 2 years of hands-on experience architecting and delivering robust, secure, and production-grade backend systems. I specialize in designing RESTful APIs, implementing scalable microservice architectures, and managing data-intensive applications using Python, Django, and Django REST Framework.
+➤  I am a results-driven Software Development Engineer with nearly 2 years of hands-on experience architecting and delivering robust, secure, and production-grade backend systems. I specialize in designing RESTful APIs, implementing scalable microservice architectures, and managing data-intensive applications using Python, Django, and Django REST Framework.
 
-⮞ My core strength lies in translating complex business requirements into performant, maintainable, and modular backend logic, reinforced by CI/CD automation, security-focused development practices, and rigorous code quality enforcement. I'm proficient in asynchronous task handling (Celery, Redis), API security (OAuth2, JWT, RBAC), and DevOps workflows (Docker, GitHub Actions, VPS, and cloud deployments).
+➤  My core strength lies in translating complex business requirements into performant, maintainable, and modular backend logic, reinforced by CI/CD automation, security-focused development practices, and rigorous code quality enforcement. I'm proficient in asynchronous task handling (Celery, Redis), API security (OAuth2, JWT, RBAC), and DevOps workflows (Docker, GitHub Actions, VPS, and cloud deployments).
 
-⮞ I’ve developed production-grade systems for diverse domains like LMS, CRM, B2B real estate, marketing automation, and infrastructure monitoring. I actively collaborate in Agile teams to deliver reliable, maintainable backend logic with a strong focus on code quality, system performance, and long-term scalability.
+➤  I’ve developed production-grade systems for diverse domains like LMS, CRM, B2B real estate, marketing automation, and infrastructure monitoring. I actively collaborate in Agile teams to deliver reliable, maintainable backend logic with a strong focus on code quality, system performance, and long-term scalability.
 
 ---
 
